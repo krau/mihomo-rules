@@ -43,5 +43,19 @@ payload:
   - DOMAIN,countly.haimacloud.com
   - DOMAIN,a.fxltsbl.com
   - DOMAIN,b.fxltsbl.com
+  - DOMAIN,breeno.apps.coloros.com
+  - DOMAIN,u.bot.heytapmobi.com
+  - DOMAIN,disaster.coloros.com
+  - DOMAIN,newds01.coloros.com
+  - DOMAIN,newds02.coloros.com
+  - DOMAIN,disaster-device-cn.allawntech.com
+  - DOMAIN,i.bot.heytapmobi.com
+  - DOMAIN,bot-lc2-cn.heytapmobi.com
+  - DOMAIN,bot-v3-cn.heytapmobi.com
+  - DOMAIN,zzhc.vnet.cn
+  - DOMAIN,i-breenoromtest-cn.wanyol.com
+  - DOMAIN,i-search-cn.heytapmobi.com
+  - DOMAIN,ai-search.heytapmobi.com
+  - DOMAIN,ai-search.heytapimage.com
   - IP-CIDR,61.135.195.27/32
   - IP-CIDR,120.238.146.64/32
