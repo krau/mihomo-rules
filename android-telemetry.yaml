@@ -6,13 +6,10 @@ payload:
   - DOMAIN,pantanal-intent.wanyol.com
   - DOMAIN,mdp-usertrace-cn.wanyol.com
   - DOMAIN,mdp-usertrace-cn.heytapmobi.com
+  - DOMAIN,uc-track-gl.heytapmobi.com
+  - DOMAIN,mdp-usertrace-cn.heytapdownload.com
   - DOMAIN,usertrace-inter-cn.wanyol.com
   - DOMAIN,dev-mdp.wanyol.com
-  - DOMAIN,odin-deployment-cn.wanyol.com
-  - DOMAIN,odin-distrib-cn.allawntech.com
-  - DOMAIN,odin.allawntech.com
-  - DOMAIN,odin-pre-cn.allawntech.com
-  - DOMAIN,odin-inference-cn.allawntech.com
   - DOMAIN,scene-bind-cn.allawntech.com
   - DOMAIN,screen-report-cn.allawntech.com
   - DOMAIN,rest-cn-feedback.heytapmobi.com
@@ -57,5 +54,3 @@ payload:
   - DOMAIN,i-search-cn.heytapmobi.com
   - DOMAIN,ai-search.heytapmobi.com
   - DOMAIN,ai-search.heytapimage.com
-  - IP-CIDR,61.135.195.27/32
-  - IP-CIDR,120.238.146.64/32
